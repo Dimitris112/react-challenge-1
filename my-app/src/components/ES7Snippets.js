@@ -10,6 +10,7 @@
 // export default ES7Snippets
 
 //-----------------------------------------
+
 //rafce
 // import React from 'react'
 
@@ -21,8 +22,8 @@
 
 // export default ES7Snippets
 
-
 //-----------------------------------------
+
 // rce
 // import React, { Component } from 'react'
 
