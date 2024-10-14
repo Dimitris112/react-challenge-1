@@ -4,6 +4,7 @@ import { savedPosts } from "../posts.json";
 import PostItem from "./PostItem";
 import Loader from "./Loader";
 
+
 function ContentHooks() {
     const [isLoaded, setIsLoaded] = useState(false);
     const [fetchedPosts, setFetchedPosts] = useState([]);
